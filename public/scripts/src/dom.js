@@ -1,7 +1,5 @@
 let $ = require('jquery');
-
 let md5 = require('crypto-js/md5');
-
 let moment = require('moment');
 
 function createGravatarUrl(username) {
